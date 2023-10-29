@@ -15,3 +15,6 @@ kafka-console-producer.bat --broker-list localhost:9092 --topic javatechie
 
 # Consume a message
 kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic javatechie
+
+![kafka_serialization_desrialization](https://github.com/rtls-net/kafka-publisher-spring-boot-serialization/assets/147226341/dfc67d0a-3908-48f0-9827-48e9087419c8)
+
